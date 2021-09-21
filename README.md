@@ -62,12 +62,12 @@ Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da a
     <img src="assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-3.jpg" />
     <img src="assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-4.jpg" />
 
-[Clique aqui para ver a Elicitação completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
+[Clique aqui para ver a Elicitação completa](docs/Elecitacao-Requisitos.md)
 
 ## ⚙ Modelagem do Sistema
 Na fase de modelagem, usamos o software **Astah** para não só modela os aspectos gerais, mas também partes especificas do sistema. Nesse sentindo, usamos vários abordagens de modelagens do sistema para detalhar as trocas de informações, apresentando com isso, algumas perspectivas diferentes do sistema para possíveis implementadores.
 
-[Clique aqui para ver a Modelagem completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+[Clique aqui para ver a Modelagem completa](docs/Modelagem.md)
 
  ### Exemplos
  
