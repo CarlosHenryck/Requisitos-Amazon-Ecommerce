@@ -24,7 +24,7 @@ Projeto desenvolvido no curso de *Engenharia de Software* durante a cadeira de *
 
 O repositório armazena todos os artefatos e diagramas desenvolvidos no projeto com foco no sistema *e-commerce* e *lógistico* da amazon.com, contendo os requisitos funcionais e não funcionais, regras de négocio, assim como, diagramas de visão de classes participantes, sequência, estados e atividades.
 
-[Clique aqui para ver o documento versão PDF completo](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Analise-e-Projeto-Amazon-Ecormmece.pdf)
+[Clique aqui para ver o documento versão PDF completo](docs/Analise-e-Projeto-Amazon-Ecormmece.pdf)
 
 ## 💻 Sobre a Amazon.com
 A amazon é uma uma empresa multinacional de tecnologia norte-americana. A companhia se concentra no e-commerce, computação em nuvem, streaming e inteligência artificial. É considerado uma das cinco grandes empresas de tecnologia, juntamente com Google, Apple, Microsoft e Facebook. Foi referida como "uma das forças econômicas e culturais mais influentes do mundo" e a marca mais valiosa do mundo.
@@ -32,7 +32,7 @@ A amazon é uma uma empresa multinacional de tecnologia norte-americana. A compa
 ## 📝 Elicitação de Requisitos
 Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da amazon.com focando principalmente nas funções gerais do site e na realização de compra de produtos por parte dos clientes, além disso buscamos entender o funcionamento do sistema lógistico de entrega dos pedidos, para assim, elencar um conjunto de requisitos funcionais e não funcionais e regras de negócios para integrar no sistema.
 
-[Clique aqui para ver a Elicitação completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
+[Clique aqui para ver a Elicitação completa](docs/Elecitacao-Requisitos.md)
 
 
 
@@ -87,7 +87,7 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
 <img src="assets\APS-Astah\5. Diagramas-Atividade\Atividade-RealizarCompra\Atividade-Realizar Compra.png" />
 
 
-[Clique aqui para ver a Modelagem completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+[Clique aqui para ver a Modelagem completa](docs/Modelagem.md)
 
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
