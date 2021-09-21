@@ -30,7 +30,7 @@ O repositório armazena todos os artefatos e diagramas desenvolvidos no projeto 
 A amazon é uma uma empresa multinacional de tecnologia norte-americana. A companhia se concentra no e-commerce, computação em nuvem, streaming e inteligência artificial. É considerado uma das cinco grandes empresas de tecnologia, juntamente com Google, Apple, Microsoft e Facebook. Foi referida como "uma das forças econômicas e culturais mais influentes do mundo" e a marca mais valiosa do mundo.
 
 ## 📝 Elicitação de Requisitos
-Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da amazon.com focando principalmente nas funções gerais do site e na realização de compra de produtos por parte dos clientes, além disso buscamos entender o funcionamento do sistema lógistico de entrega dos pedidos, para assim, elencar um conjunto de requisitos funcionais e não funcionais para integrar no sistema.
+Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da amazon.com focando principalmente nas funções gerais do site e na realização de compra de produtos por parte dos clientes, além disso buscamos entender o funcionamento do sistema lógistico de entrega dos pedidos, para assim, elencar um conjunto de requisitos funcionais e não funcionais e regras de negócios para integrar no sistema.
 
 [Clique aqui para ver a Elicitação completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
 
